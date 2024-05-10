@@ -1,5 +1,5 @@
 
-# School Library Management Application
+# E Library Management Application
 
 The School library management application is an application that helps library staff to handle the management process and services at the library and make it easier for library members to make transactions and search for books.
 
